@@ -1,7 +1,0 @@
----
-title: "Markdown File"
-author: "Maisoon"
-date: "November 6, 2020"
-output: pdf_document
----
-## This is a markdown file
